@@ -31,3 +31,11 @@ print(10* 'yes')
 width = 10
 
 print(width)
+
+msg = """
+print the 
+message in 
+2 lines
+"""
+
+print(msg)
